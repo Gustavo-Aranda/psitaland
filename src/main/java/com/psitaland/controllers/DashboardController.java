@@ -1,6 +1,6 @@
 package com.psitaland.controllers;
 
-import com.psitaland.dto.dashboard.DashboardResponseDTO;
+import com.psitaland.dtos.dashboard.DashboardResponseDTO;
 import com.psitaland.services.DashboardService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;

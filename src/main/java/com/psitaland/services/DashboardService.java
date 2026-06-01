@@ -1,7 +1,7 @@
 package com.psitaland.services;
 
-import com.psitaland.dto.dashboard.DashboardResponseDTO;
-import com.psitaland.dto.dashboard.DashboardResponseDTO.ItemContagem;
+import com.psitaland.dtos.dashboard.DashboardResponseDTO;
+import com.psitaland.dtos.dashboard.DashboardResponseDTO.ItemContagem;
 import com.psitaland.repositories.EspecieRepository;
 import com.psitaland.repositories.GaiolaRepository;
 import com.psitaland.repositories.MutacaoRepository;

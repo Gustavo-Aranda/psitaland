@@ -1,4 +1,4 @@
-package com.psitaland.dto.dashboard;
+package com.psitaland.dtos.dashboard;
 
 import lombok.Builder;
 import lombok.Getter;
