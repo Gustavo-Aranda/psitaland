@@ -3,7 +3,8 @@
 **Versão**: 1.0.0  
 **Data**: Junho 2026  
 **Linguagem**: Java 21  
-**Framework**: Spring Boot 3.4.3
+**Framework**: Spring Boot 3.4.3  
+**Frontend**: https://psitaland.lovable.app/
 
 ---
 
